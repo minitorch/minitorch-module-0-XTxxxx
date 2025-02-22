@@ -6,3 +6,8 @@
 * Docs: https://minitorch.github.io/
 
 * Overview: https://minitorch.github.io/module0/module0/
+
+# Task0-5
+
+- This classifier works by marking $-x1 + 0.5 > 0$ as type 1, otherwise is type 0
+![alt text](./images/handcreated_classifier.png)
